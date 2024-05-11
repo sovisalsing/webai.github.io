@@ -1,0 +1,65 @@
+.text-color-1 {
+    color: #32de84;
+}
+
+.dot-logo {
+    color: #32de84;
+}
+
+li .active a {
+    color: #32de84;
+}
+
+.btn-getstarted {
+    background-color: #32de84;
+}
+
+.navmenu .active {
+    color: #32de84;
+}
+
+.navmenu a:hover {
+    color: #32de84;
+}
+
+.navmenu ul li a:hover {
+    color: #6fffb8;
+}
+
+
+
+.recent-posts article {
+    box-shadow: 0 4px 16px rgba(33, 37, 41, 0.1);
+    padding: 30px;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.recent-posts .post-category {
+    font-size: 16px;
+    color: rgb(255, 255, 255, 0.5);
+    margin-bottom: 10px;
+}
+
+.recent-posts .post-author {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #ffffffee;
+}
+
+section {
+    background-color: #000000;
+}
+
+.recent-posts article {
+    box-shadow: 0 4px 16px #fff;
+    padding: 30px;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#particles-js {
+    background: #000000;
+}
