@@ -191,45 +191,6 @@
                 <div class="container">
                     <div class="row gy-4">
 
-                        <div class="col-xl-4 col-md-6 container-list-item" data-aos="fade-up" data-aos-delay="100">
-                            <article>
-                                <div class="post-img">
-                                    <img src="images/generators/img2.avif" alt="" class="img-fluid">
-                                </div>
-                                <p class="post-category">Image Generator</p>
-                                <h2 class="title">
-                                    <a href="ai-image-generator/index.php" style="color: rgb(50, 222, 132);" onmouseover="this.style.color='#2bb673';" onmouseout="this.style.color='#32de84';">
-                                        AnailAi Image Generator
-                                    </a>
-                                </h2>
-                                <div class="d-flex align-items-center">
-                                    <div class="post-meta">
-                                        <p class="post-author">Generator the images by texting whatever you want here.</p>
-                                    </div>
-                                </div>
-
-                            </article>
-                        </div><!-- End post list item -->
-
-                        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                            <article>
-                                <div class="post-img">
-                                    <img src="images/generators/img5.jpg" alt="" class="img-fluid">
-                                </div>
-                                <p class="post-category">Dictionary App</p>
-                                <h2 class="title">
-                                    <a href="dictionary-api/index.php" style="color: rgb(50, 222, 132);" onmouseover="this.style.color='#2bb673';" onmouseout="this.style.color='#32de84';">
-                                        Ninja Dictionary App
-                                    </a>
-                                </h2>
-                                <div class="d-flex align-items-center">
-                                    <div class="post-meta">
-                                        <p class="post-author">Find the meaning of the words</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div><!-- End post list item -->
-
                         <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                             <article>
 
